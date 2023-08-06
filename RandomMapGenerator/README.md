@@ -1,4 +1,4 @@
-[RandomMapGeneration](https://github.com/wjdgh9577/Unity3D/blob/master/%EC%9E%90%EC%9E%91/RandomMapGeneration)
+[RandomMapGeneration](https://github.com/wjdgh9577/RamdomMapGeneration)
 
 위 프로젝트의 코드 및 알고리즘을 Blocktopia에 맞춰 수정하였다.
 
