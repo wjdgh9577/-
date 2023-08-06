@@ -7,12 +7,12 @@
 
 <br/>
 
-## [SerializableClassCollection.cs](https://github.com/wjdgh9577/Unity3D/blob/master/%EB%88%84%EB%9D%BC%EC%9E%84%EA%B2%8C%EC%9E%84%EC%A6%88/ScriptableObjectsManagement/SerializableClassCollection.cs)
+## SerializableClassCollection.cs
 Serialized Table Data를 Deserialize할 클래스를 모아둔 스크립트이다.
 
 <br/>
 
-## [ScriptableManagement.cs](https://github.com/wjdgh9577/Unity3D/blob/master/%EB%88%84%EB%9D%BC%EC%9E%84%EA%B2%8C%EC%9E%84%EC%A6%88/ScriptableObjectsManagement/ScriptableManagement.cs)
+## ScriptableManagement.cs
 Table Data를 Deserialize하고 Scriptable Object로 변환하는 기능을 구현한 스크립트이다.
 
 지정된 경로에서 json파일을 불러오고 지정된 경로에 Scriptable Object를 생성한다.
